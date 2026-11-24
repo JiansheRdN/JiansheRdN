@@ -10,11 +10,4 @@ Dies ist die GitHub-Profilseite von JiansheRdN. Ich bin derzeit Oberschüler bei
 
 
 ## 企鹅。
-
-Below is a penguin. It is only a penguin, nothing special. Really. 
-
-*Why would a penguin have its Github page?*
-
-这是一只企鹅。只是一只企鹅。真的。
-
 ![This is a penguin.](/78141079-066b-11f1-842b-96df31479c2b.jpg)
